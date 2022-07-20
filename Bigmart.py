@@ -18,8 +18,8 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 #Load the train and test dataset in pandas Dataframe
-train=pd.read_csv("E:/Placement courses/ML Projects/Bigmart/train.csv")
-test=pd.read_csv("E:/Placement courses/ML Projects/Bigmart/test.csv")
+train=pd.read_csv("train.csv")
+test=pd.read_csv("test.csv")
 
 
 # In[201]:
